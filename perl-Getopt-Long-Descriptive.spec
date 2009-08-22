@@ -14,6 +14,7 @@ Source0:    http://www.cpan.org/modules/by-module/Getopt/%{upstream_name}-%{upst
 BuildRequires: perl(IO::Scalar)
 BuildRequires: perl(List::Util)
 BuildRequires: perl(Params::Validate)
+BuildRequires: perl(Sub::Exporter)
 BuildRequires: perl(Test::More)
 
 BuildArch: noarch
