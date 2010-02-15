@@ -1,5 +1,5 @@
 %define upstream_name    Getopt-Long-Descriptive
-%define upstream_version 0.083
+%define upstream_version 0.084
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
