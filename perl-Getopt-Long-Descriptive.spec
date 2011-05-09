@@ -1,9 +1,9 @@
 %define upstream_name    Getopt-Long-Descriptive
-%define upstream_version 0.089
+%define upstream_version 0.090
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 2
+Release:    %mkrel 1
 
 Summary:    Getopt::Long with usage text and validation
 License:    GPL+ or Artistic
