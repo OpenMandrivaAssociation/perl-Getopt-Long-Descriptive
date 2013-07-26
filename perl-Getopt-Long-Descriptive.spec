@@ -1,15 +1,15 @@
 %define upstream_name    Getopt-Long-Descriptive
-%define upstream_version 0.092
+%define upstream_version 0.093
 
 Name:       perl-%{upstream_name}
-Version:    %perl_convert_version %{upstream_version}
+Version:    %perl_convert_version 0.093
 Release:    1
 
 Summary:    Getopt::Long with usage text and validation
 License:    GPL+ or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
-Source0:    http://www.cpan.org/modules/by-module/Getopt/%{upstream_name}-%{upstream_version}.tar.gz
+Source0:    http://www.cpan.org/modules/by-module/Getopt/Getopt-Long-Descriptive-0.093.tar.gz
 
 BuildRequires: perl(IO::Scalar)
 BuildRequires: perl(List::Util)
@@ -99,4 +99,5 @@ make test
 
 * Wed Dec 03 2008 cpan2dist 0.074-1mdv
 - initial mdv release, generated with cpan2dist
+
 
