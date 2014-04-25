@@ -1,4 +1,5 @@
 removed_sources:
   Getopt-Long-Descriptive-0.092.tar.gz: fd59cf91b9f0d50159ff464105e27be6b1061fc4
-sources:
   Getopt-Long-Descriptive-0.093.tar.gz: 15ecd38912acf0ed146ceceb1e1179cf8fcfc393
+sources:
+  Getopt-Long-Descriptive-0.097.tar.gz: 036cc4be132bedc7088b1724c5fa21eb4e6a0293
