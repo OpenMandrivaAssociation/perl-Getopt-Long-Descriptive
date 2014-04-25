@@ -13,6 +13,7 @@ Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Getopt/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires: perl(IO::Scalar)
+BuildRequires: perl(Test::Warnings)
 BuildRequires: perl(List::Util)
 BuildRequires: perl(Params::Validate)
 BuildRequires: perl(Sub::Exporter)
