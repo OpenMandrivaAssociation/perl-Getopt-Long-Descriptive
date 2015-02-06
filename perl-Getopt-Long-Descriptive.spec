@@ -3,7 +3,7 @@
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version 0.093
-Release:    2
+Release:    3
 
 Summary:    Getopt::Long with usage text and validation
 License:    GPL+ or Artistic
