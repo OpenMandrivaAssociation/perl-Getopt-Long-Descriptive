@@ -2,7 +2,7 @@
 %undefine _debugsource_packages
 
 Name:		perl-%{module}
-Version:	0.115
+Version:	0.116
 Release:	1
 Summary:	Getopt::Long, but simpler and more powerful
 URL:		https://metacpan.org/pod/Getopt::Long::Descriptive
