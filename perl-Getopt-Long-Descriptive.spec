@@ -9,6 +9,7 @@ URL:		https://metacpan.org/pod/Getopt::Long::Descriptive
 Source:		https://cpan.org/modules/by-module/Getopt/%{module}-%{version}.tar.gz
 License:	Perl (Artistic or GPL)
 Group:		Development/Perl
+BuildRequires:	make
 BuildRequires:	perl
 BuildRequires:	perl(Params::Validate)
 BuildRequires:	perl(ExtUtils::MakeMaker)
