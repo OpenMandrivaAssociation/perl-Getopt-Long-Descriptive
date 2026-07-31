@@ -2,7 +2,7 @@
 %undefine _debugsource_packages
 
 Name:		perl-%{module}
-Version:	0.116
+Version:	0.117
 Release:	1
 Summary:	Getopt::Long, but simpler and more powerful
 URL:		https://metacpan.org/pod/Getopt::Long::Descriptive
@@ -19,7 +19,7 @@ BuildArch:	noarch
 Getopt::Long, but simpler and more powerful
 
 %prep
-%autosetup -p1 -n %{module}-%{version}
+%autosetup -p1 -n Getopt-Long-Descriptive-0.117
 perl Makefile.PL INSTALLDIRS=vendor
 
 %build
